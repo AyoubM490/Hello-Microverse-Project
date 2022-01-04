@@ -11,16 +11,10 @@ This project is part of the Microverse Full Stack Curriculum.
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-## Setup
+### Setup
 Run the following command on your terminal: git clone https://github.com/AyoubMs/-Hello-Microverse-Project.git
 
 ## Author
 - Github: [@AyoubMs](https://github.com/AyoubMs)
 - Twitter: [@ChahirDev](https://twitter.com/ChahirDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayoub-chahir/)
-
-## Contributing
-Contributions, issues, and feature requests are welcome!
-
-## Show your support
-Give a star if you like this project!
